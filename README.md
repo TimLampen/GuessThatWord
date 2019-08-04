@@ -5,4 +5,4 @@ A definition is given and the player narrows down the potential answers by guess
 
 # Example Menus
 
-<img src="https://gyazo.com/1d13e788d68d8bab37bb307ca59ff966.jpg" width="48"> <img src="https://i.gyazo.com/3479f86ebee179e6f0ce83eead959ee3.jpg" width="48"> <img src="https://i.gyazo.com/20d0e30e34631d14edcceb6a8a0106b5.jpg" width="48">
+<img src="https://gyazo.com/1d13e788d68d8bab37bb307ca59ff966.jpg" width="400"> <img src="https://i.gyazo.com/3479f86ebee179e6f0ce83eead959ee3.jpg" width="400"> <img src="https://i.gyazo.com/20d0e30e34631d14edcceb6a8a0106b5.jpg" width="400">
